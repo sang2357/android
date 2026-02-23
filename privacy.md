@@ -1,5 +1,3 @@
----
-
 **Privacy Policy for Nostradamus Prochecies**
 
 Effective Date: 23-Feb-2026
@@ -46,6 +44,4 @@ You have the right to:
 
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. We encourage you to review this policy periodically for any updates.
 
-
----
 
