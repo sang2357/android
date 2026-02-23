@@ -2,11 +2,11 @@ Here's a sample privacy policy statement for an Android mobile app:
 
 ---
 
-**Privacy Policy for [Your App Name]**
+**Privacy Policy for Nostradamus Prochecies**
 
-Effective Date: [Insert Date]
+Effective Date: 23-Feb-2026
 
-At [Your Company Name], we are committed to protecting your privacy. This privacy policy explains how we collect, use, and safeguard your information when you use our app, [Your App Name], available on the Google Play Store.
+At Sang.App, we are committed to protecting your privacy. This privacy policy explains how we collect, use, and safeguard your information when you use our app, Nostradamus Prochecies, available on the Google Play Store.
 
 ### 1. Information We Collect
 
@@ -48,9 +48,6 @@ You have the right to:
 
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. We encourage you to review this policy periodically for any updates.
 
-### 7. Contact Us
-
-If you have any questions about this privacy policy, please contact us at [Your Contact Email].
 
 ---
 
