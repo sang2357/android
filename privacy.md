@@ -1,5 +1,3 @@
-Here's a sample privacy policy statement for an Android mobile app:
-
 ---
 
 **Privacy Policy for Nostradamus Prochecies**
@@ -51,4 +49,3 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 ---
 
-Ensure you customize the placeholders with your specific app and company details, and consult with a legal representative to ensure compliance with applicable laws and regulations.# android
